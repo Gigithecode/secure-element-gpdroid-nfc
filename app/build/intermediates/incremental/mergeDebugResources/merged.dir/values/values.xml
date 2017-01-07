@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">GPDroid</string>
+    <string name="applet_aids">Applet AIDs</string>
+    <string name="btn_choose_applet">Choose Applet</string>
+    <string name="btn_get_data">Get Data</string>
+    <string name="btn_install_applet">Install Applet</string>
+    <string name="btn_list_applets">List Applets</string>
+    <string name="channel_gemalto">is it gemalto?</string>
+    <string name="channel_id">ID</string>
+    <string name="channel_name">Channel name</string>
+    <string name="channel_scpversion">SCP-Version</string>
+    <string name="channel_security">Security Level</string>
+    <string name="channel_set">Set</string>
+    <string name="getdata_btn_cancel">Cancel</string>
+    <string name="getdata_btn_ok">OK</string>
+    <string name="getdata_descr">Please set your parameters as hex:</string>
+    <string name="getdata_p1">P1</string>
+    <string name="getdata_p2">P2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="keyset_dek">ENC</string>
+    <string name="keyset_descr">Hint: type in hex-values (e.g. "FACD008020")</string>
+    <string name="keyset_dialog_ask_overwrite">Do you want to overwrite this keyset?</string>
+    <string name="keyset_dialog_title">Keyset ID already exists!</string>
+    <string name="keyset_id">ID</string>
+    <string name="keyset_kek">KEK</string>
+    <string name="keyset_mac">MAC</string>
+    <string name="keyset_name">Keyset Name</string>
+    <string name="keyset_negative">Cancel</string>
+    <string name="keyset_positive">OK</string>
+    <string name="keyset_version">Version</string>
+    <string name="main_descr_channel">Secure channel parameters</string>
+    <string name="main_descr_keyset">Keysets</string>
+    <string name="parameter_OK_button">Set</string>
+    <string name="parameter_privileges">privileges (0-255)</string>
+    <string name="parameter_text">enter parameters</string>
+    <string name="parameter_title">keep empty, if no parameters are needed</string>
+    <string name="title_activity_add_channel_set">AddChannelSetActivity</string>
+    <string name="title_activity_add_keyset">Please enter a new Keyset</string>
+    <string name="title_activity_applet_detail">AppletDetailActivity</string>
+    <string name="title_activity_get_data">GetDataActivity</string>
+    <string name="title_activity_gpshell">GPDroid</string>
+    <string name="title_activity_set_install_param">SetInstallParamActivity</string>
+    <string name="title_applet_install_test">Applet Install Test</string>
+    <string name="title_echo_test">APDU Echo Test</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\applet_list.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\layout\\applet_list.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_channel_set.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\layout\\activity_add_channel_set.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\applet_install_test.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\layout\\applet_install_test.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_keyset.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\layout\\activity_add_keyset.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applet_detail.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\layout\\activity_applet_detail.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_echo_test.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\layout\\activity_echo_test.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_data.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\layout\\activity_get_data.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_applet_install_test.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\layout\\activity_applet_install_test.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_install_param.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\layout\\activity_set_install_param.xml"
+    }
+]

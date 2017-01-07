@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_add_to_queue.png",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\drawable-hdpi\\ic_action_add_to_queue.png"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_remove.png",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
+    }
+]

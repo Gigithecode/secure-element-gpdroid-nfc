@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\git\secure-element-gpdroid-nfc\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_e849bc26d4efd9b7f86fe2f331ebd71618a3b224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\git\secure-element-gpdroid-nfc\app\libs\org.simalliance.openmobileapi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e4b8cc3c8f632559c2fc47455e47c9da70043102">
+        <dex dex="C:\git\secure-element-gpdroid-nfc\app\build\intermediates\pre-dexed\debug\org.simalliance.openmobileapi_678d6a18de345f2be86f14ada05690476c527714.jar" />
+    </item>
+
+</items>

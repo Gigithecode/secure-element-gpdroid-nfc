@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\set_install_param.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\menu\\set_install_param.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_keyset.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\menu\\add_keyset.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_channel_set.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\menu\\add_channel_set.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\get_data.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\menu\\get_data.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\applet_detail.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\menu\\applet_detail.xml"
+    },
+    {
+        "merged": "C:\\git\\secure-element-gpdroid-nfc\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gpshell.xml",
+        "source": "C:\\git\\secure-element-gpdroid-nfc\\app\\src\\main\\res\\menu\\gpshell.xml"
+    }
+]
